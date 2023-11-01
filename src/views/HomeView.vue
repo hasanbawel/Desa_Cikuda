@@ -42,8 +42,7 @@ import Sidebar from "../components/Sidebar.vue";
         </li>
         <li>
           8. Musyawarah dalem menyelesaikan setiap perbededaan;
-        </li>
-        <li>  
+        </li> 
       </ul>
    </div>
   </main>
