@@ -84,7 +84,7 @@ export default {
       geojson: null,
       fillColor: "#0CF9E0",
       tileProviders: tileProviders,
-      marker: latLng(-6.3724104545149975, 106.58656512654775),
+      marker: latLng(-6.37241, 106.58656),
       timeout: undefined,
     };
   },
