@@ -79,7 +79,7 @@ export default {
       show: true,
       enableTooltip: true,
       zoom: 15,
-      center: [-3.28561, 120.97431],
+      center: [-6.37241, 106.58656],
       layerData: [],
       geojson: null,
       fillColor: "#0CF9E0",
